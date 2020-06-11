@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Alphabet Board/Scenes/MainMenu.unity
+    guid: feffbbbcf8da00545beff13019ef2891
+  - enabled: 1
+    path: Assets/Alphabet Board/Scenes/AlphabetMenu.unity
+    guid: 63f83a98411ff4c60853eb6e90ce9cb7
+  - enabled: 1
+    path: Assets/Alphabet Board/Scenes/AlphabetWriting.unity
+    guid: eb37ecedd1e5f4acaa4364533b118a95
+  - enabled: 1
+    path: Assets/Alphabet Board/Scenes/MemoryGame.unity
+    guid: 82efb415d72685e4e9f4f10eb3bf6af7
+  - enabled: 1
+    path: Assets/Alphabet Board/Scenes/LoseScene.unity
+    guid: 43497f537a94aa747b61540d0ea2d33e
+  - enabled: 1
+    path: Assets/Alphabet Board/Scenes/MathGame.unity
+    guid: a67848aac5305c746b8fbdfc93817643
+  - enabled: 1
+    path: Assets/Alphabet Board/Scenes/MenuGame.unity
+    guid: f9f2b5a5e0445fe44985cf353cd40c50
+  - enabled: 1
+    path: Assets/Alphabet Board/Scenes/MathMenuGame.unity
+    guid: e50f6063b2f3c4f45959154ea24f91b8
+  - enabled: 1
+    path: Assets/Alphabet Board/Scenes/MathMult.unity
+    guid: 5c16ed969579aa14d8d62d3168629e6d
+  - enabled: 1
+    path: Assets/Alphabet Board/Scenes/MathSub.unity
+    guid: 686af9397bacb024ea7df22ed0050e88
+  - enabled: 1
+    path: Assets/Alphabet Board/Scenes/MathAdd.unity
+    guid: f098fae093ce7c445b525815c33dab95
+  - enabled: 1
+    path: Assets/Alphabet Board/Scenes/MathDiv.unity
+    guid: 0a57fe99bfb95964d829f8e0523fd217
+  - enabled: 1
+    path: Assets/Alphabet Board/Scenes/PuzzleGame.unity
+    guid: 752a0e5148a028741a2ccbd47b1dfb22
+  - enabled: 1
+    path: Assets/Alphabet Board/Scenes/PuzzlesGame.unity
+    guid: b7318d3129bdd5c409cde0a87687f0b7
+  - enabled: 1
+    path: Assets/Alphabet Board/Scenes/LoseAddScene.unity
+    guid: fdc20f141b54d34468b2f72e8590489b
+  - enabled: 1
+    path: Assets/Alphabet Board/Scenes/LoseSubScene.unity
+    guid: 2fe29930c478c5042be8ba35eb316ed2
+  - enabled: 1
+    path: Assets/Alphabet Board/Scenes/LoseMultScene.unity
+    guid: 8d848cd9ee860f34e9d96c88cc19abe9
+  - enabled: 1
+    path: Assets/Alphabet Board/Scenes/LoseDivScene.unity
+    guid: 846906630d0fa2b44bd83fc14d48d72b
+  - enabled: 1
+    path: Assets/Alphabet Board/Scenes/NewMemoryGame.unity
+    guid: 2f920c6fe6d66644cac44461a25fc722
+  - enabled: 1
+    path: Assets/Alphabet Board/Scenes/WordGame.unity
+    guid: 20196f155b4de48459ebe5eddbcf2349
+  - enabled: 1
+    path: Assets/Alphabet Board/Scenes/ShadowPuzzleGame.unity
+    guid: 3d76fcf679c14e542beb68075fb13ec1
+  - enabled: 1
+    path: Assets/Alphabet Board/Scenes/PuzzleTime.unity
+    guid: 3b37f4d401f834e45a73d311d987fecd
+  - enabled: 1
+    path: Assets/Alphabet Board/Scenes/Setting.unity
+    guid: bbc6ec2b601ad5049b8637e8072579ec
+  - enabled: 1
+    path: Assets/Alphabet Board/Scenes/ScoreTable.unity
+    guid: 27898174b9d8bf54cbdf5eeed354fda7
+  - enabled: 1
+    path: Assets/Alphabet Board/Scenes/MemoryTime.unity
+    guid: df6e92765f4bcbf49bb8f3f224cd1b6d
+  m_configObjects: {}
